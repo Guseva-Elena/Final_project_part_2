@@ -1,5 +1,3 @@
-import json
-
 import configuration
 import data
 import requests
