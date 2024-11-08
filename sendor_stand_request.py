@@ -1,3 +1,4 @@
+# Гусева Елена, 23 когорта. Финальный проект. Инженер по тестированию плюс.
 import configuration
 import data
 import requests
